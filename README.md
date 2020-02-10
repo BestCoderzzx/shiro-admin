@@ -6,7 +6,7 @@
 
 **后台代码地址(采用SpringBoot + Shiro + Mybatis 分页组件实现):**
 
-**后台管理界面代码下载地址:**
+**前端后台管理界面代码下载地址:**
 
 **https://github.com/BestCoderzzx/shiro.git**
 
