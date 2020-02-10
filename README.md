@@ -1,6 +1,6 @@
 # shiro-admin
 
-**java 技术交流群 672392847 **
+**java 技术交流群 672392847**
 
 **SpringBoot + Shiro + Vue 实现权限管理系统**
 
@@ -35,6 +35,6 @@
 
 **关注微信号 微笑码 获取海量IT资源,视频，分布式，高并发知识**
 
-分布式解决方案视频地址:
+**分布式解决方案视频地址:**
 
-https://edu.csdn.net/course/detail/27554
+**https://edu.csdn.net/course/detail/27554**
